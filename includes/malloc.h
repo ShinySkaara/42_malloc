@@ -6,12 +6,12 @@
 /*   By: alalonzo <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/23 12:57:17 by alalonzo          #+#    #+#             */
-/*   Updated: 2022/02/07 02:36:59 by alalonzo         ###   ########.fr       */
+/*   Updated: 2022/02/13 14:14:52 by alalonzo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef MALLOC_H
-# define MALLOC_h
+# define MALLOC_H
 
 # define PROT_READ_WRITE (PROT_READ | PROT_WRITE)
 # define MAP_PRIVATE_ANONYMOUS (MAP_PRIVATE | MAP_ANONYMOUS)
